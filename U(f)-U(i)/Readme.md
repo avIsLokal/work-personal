@@ -12,3 +12,5 @@
 - added a personal directory for further project setup
 
 ## 28th Oct
+- went through the code base(my takes: tanstack, stacknaviagtion, stylesheet, navigation flow)
+- got the product KT from Sameer Jain (pod-product)
