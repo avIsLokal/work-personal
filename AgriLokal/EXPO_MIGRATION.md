@@ -2,7 +2,7 @@
 
 This branch (`chore/expo-54-to-58-migration`) upgrades the app from **Expo SDK 54 / React Native 0.81.5** to **Expo SDK 58 / React Native 0.88.1**. We went one SDK at a time (54 → 55 → 56 → 57 → 58).
 
-This file lists what changed and why. For step-by-step migration notes and troubleshooting, see [EXPO_SDK_58_MIGRATION.md](EXPO_SDK_58_MIGRATION.md). For new platform features that we haven't adopted yet, see [UPGRADE_FEATURE_ADOPTION.md](UPGRADE_FEATURE_ADOPTION.md).
+This file lists what changed and why. For step-by-step migration notes and troubleshooting,
 
 ---
 
